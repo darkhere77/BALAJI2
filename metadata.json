@@ -1,0 +1,6 @@
+{
+  "name": "Sri Balaji Perfumery",
+  "description": "Authentic Indian spiritual fragrances, handcrafted agarbatti, dhoop cones, and cup sambrani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
